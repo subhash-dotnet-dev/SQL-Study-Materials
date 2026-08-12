@@ -1,0 +1,26 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# SQL Server local / generated files
+*.bak
+*.mdf
+*.ndf
+*.ldf
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Secrets / local configuration
+.env
+*.local
+
+# Build / cache folders
+bin/
+obj/
